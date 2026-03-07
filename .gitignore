@@ -1,0 +1,9 @@
+ChaCha20.cache/
+ChaCha20.runs/
+ChaCha20.gen/
+ChaCha20.ip_user_files/
+ChaCha20.sim/
+ChaCha20.hw/
+*.log
+*.jou
+*.backup.*
